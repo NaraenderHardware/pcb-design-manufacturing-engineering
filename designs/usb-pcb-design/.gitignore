@@ -1,0 +1,51 @@
+# ===============================
+# KiCad temporary / cache files
+# ===============================
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_sym-bak
+*.kicad_mod-bak
+*.kicad_pro-bak
+*-cache.lib
+*-rescue.lib
+*-rescue.kicad_sym
+fp-info-cache
+
+# ===============================
+# KiCad autosave files
+# ===============================
+_autosave-*
+*.autosave
+
+# ===============================
+# KiCad PCB editor files
+# ===============================
+*.kicad_pcb~*
+*.kicad_sch~*
+
+# ===============================
+# OS / editor junk
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.log
+
+# ===============================
+# Python / scripts (if any)
+# ===============================
+__pycache__/
+*.pyc
+.env
+
+# ===============================
+# Build / export folders (optional)
+# Uncomment if you regenerate them
+# ===============================
+# GERBER/
+# BOM/
+# POS/

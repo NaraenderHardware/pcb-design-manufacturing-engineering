@@ -1,0 +1,27 @@
+# KiCad temporary / lock files
+*.lck
+fp-info-cache
+*-cache.lib
+*.kicad_sym-cache
+
+# KiCad backup & autosave
+*.bak
+*.tmp
+*.swp
+*.autosave
+*_autosave*
+
+# Generated documentation exports (PDFs)
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Build / export folders
+_export/
+_build/

@@ -1,0 +1,26 @@
+Voltage Regulator Output Readings
+
+----------------------------------
+7805 Output:
+Expected: +5V
+Measured: 4.98V – 5.02V
+
+----------------------------------
+7812 Output:
+Expected: +12V
+Measured: 11.9V – 12.1V
+
+----------------------------------
+7912 Output:
+Expected: -12V
+Measured: -11.8V – -12.0V
+
+----------------------------------
+Observations:
+- Outputs are stable with minimal fluctuation
+- Slight variation due to input ripple and component tolerance
+- Circuit works as expected
+
+----------------------------------
+Conclusion:
+The voltage regulator PCB provides reliable and stable DC outputs suitable for practical applications.
